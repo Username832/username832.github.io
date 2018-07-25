@@ -1,0 +1,21 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black
+}
+
+.box{
+    width: 650px;
+    height: 100px;
+    background-color:royalblue;
+    margin-bottom: 20px;
+    color: forestgreen;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+h1{
+    color:orangered
+}
